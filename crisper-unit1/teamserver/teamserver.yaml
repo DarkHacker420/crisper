@@ -1,0 +1,6 @@
+bind: 0.0.0.0:443
+tls_cert: certs/server.pem
+tls_key: certs/server.key
+psk_hex: "9f2c1a77b3e84d05c6a1f8e2d4b70c93"
+db_path: data/crisper.db
+files_dir: data/files
